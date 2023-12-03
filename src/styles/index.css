@@ -1,0 +1,21 @@
+.contenedor {
+  background-image: url("https://img.freepik.com/foto-gratis/paisaje-naturaleza-rosa-vegetacion-flora_23-2150859533.jpg?w=1800&t=st=1701616898~exp=1701617498~hmac=d82fe8407916b8ae592c4478fbd17c5590293a8e2d6cdd684396a5635ec4d9b2");
+}
+.fondo {
+  border: 3px solid #fafafa10;
+  background-color: #fafafa10;
+  backdrop-filter: blur(0.4rem);
+}
+.box-Counter {
+  display: grid;
+  place-content: center;
+  width: 120px;
+  height: 120px;
+  background: linear-gradient(
+    180deg,
+    hsla(0, 1%, 23%, 1) 46%,
+    hsla(0, 2%, 25%, 1) 50%,
+    hsla(0, 0%, 20%, 1) 54%
+  );
+  box-shadow: 6px 6px 8px -2px rgba(0, 0, 0, 0.4);
+}
