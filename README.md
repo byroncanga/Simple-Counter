@@ -1,2 +1,2 @@
 # Simple-Counter
-Simple conunter realizado en React
+Simple counter realizado en React
